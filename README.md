@@ -4,7 +4,7 @@
 
 **Software Developer · Costa Rica**
 
-*Web development · Full-stack projects · AI integrations · SEO & AEO*
+*Web Development · Full-Stack Projects · RAG & AI Integration · SEO & AEO*
 
 [English](#english) · [Español](#espanol)
 
